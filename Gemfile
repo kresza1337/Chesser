@@ -6,6 +6,7 @@ gem "jquery-rails", "~> 4.6.0"
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'bootstrap', "~> 5.3.1"
 gem 'sassc-rails', '>= 2.1.0'
+gem 'sass-rails'
 gem 'webpacker'
 gem 'psych', '< 4'
 gem "bootstrap-tour-rails"
