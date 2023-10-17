@@ -4,4 +4,7 @@ class PagesController < ApplicationController
 
     def players
     end
+
+    def chess
+    end
 end
