@@ -7,4 +7,10 @@ class PagesController < ApplicationController
 
     def chess
     end
+
+    def onlineplayers
+    end
+
+    def onlinegames
+    end
 end
